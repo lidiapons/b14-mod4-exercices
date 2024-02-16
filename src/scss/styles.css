@@ -1,0 +1,23 @@
+.grid-movie{
+    display: flex;
+    flex-wrap: wrap;
+    gap:15px;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor-movie{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.titulo{
+    font-weight: bold;
+    font-size: 20px;
+}
+.imagen{
+    width: 50px;
+    height: 80px;
+}
+.descripcion{
+    font-size: 10px;
+}
